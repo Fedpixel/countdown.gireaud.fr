@@ -52,12 +52,12 @@ li span {
   font-size: 4.5rem;
 }
 
-.emoji {
+.giphy {
   display: none;
   padding: 1rem;
 }
 
-.emoji span {
+.giphy span {
   font-size: 4rem;
   padding: 0 .5rem;
 }
