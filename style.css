@@ -77,7 +77,7 @@ li span {
 }
 
 #myProgress {
-  width: 90%;
+  width: 100%;
   background-color: #333;
   display: inline-block;
 }
