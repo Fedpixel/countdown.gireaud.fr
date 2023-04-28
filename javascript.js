@@ -14,7 +14,7 @@ const countdown = () => {
   const textHour = Math.floor((gap % day) / hour);
   const textMinute = Math.floor((gap % hour) / minute);
   const textSecond = Math.floor((gap % minute) / second);
-  const textPercentage = Math.round(percentage);
+  const textPercentage = Math.floor(percentage);
 
   const daysElement = document.getElementById('days');
   const hoursElement = document.getElementById('hours');
