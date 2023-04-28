@@ -75,3 +75,16 @@ li span {
     font-size: calc(3.375rem * var(--smaller));
   }
 }
+
+#myProgress {
+  width: 90%;
+  background-color: #333;
+  display: inline-block;
+}
+
+#myBar {
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+}
