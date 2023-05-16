@@ -1,6 +1,6 @@
 const countdown = () => {
-  const countDate = new Date('April 28, 2023 17:00:00').getTime();
-  const start = new Date('April 24, 2023 09:00:00').getTime();
+  const countDate = new Date('September 17, 2023 00:00:00').getTime();
+  const start = new Date('February 24, 2023 11:14:00').getTime();
   const now = new Date().getTime();
   const gap = countDate - now;
 
